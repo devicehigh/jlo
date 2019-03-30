@@ -1,3 +1,5 @@
+#python
+
 word = "Przemek"
 length = len(word)
 print length 
